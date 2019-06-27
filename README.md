@@ -1,1 +1,5 @@
-This is a stub where actual documentation will go some day.
+ey - A CLI tool for interacting with Engine Yard environments
+
+## History ##
+
+* v0.0.1 - Server stop/start
