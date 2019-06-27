@@ -1,0 +1,8 @@
+*~
+*.swp
+builds/
+/ey
+coverage.out
+.quality
+.coverage
+goreporter/
